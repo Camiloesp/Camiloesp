@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Camilo!
-I am a Software Engineer with 4 years of professional experience.
+I am a Software Engineer with 4 years of professional experience working in Unreal Engine, C++, and Python.
 My current focus is on **Data Science, Python, and AI/ML**, where I work with data analysis, visualization, and machine learning techniques to build intelligent solutions.
 In my free time, I take classes to deepen my knowledge in AI and Data Science, go on walks with my dog, recently started going to the gym, and enjoy learning new DIY projects. 
 
