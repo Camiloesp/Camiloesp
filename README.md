@@ -12,6 +12,38 @@ Something I always wanted to do is buy and modify a van for camping so I can tra
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/camilo-espinosa1996) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:camesp96@gmail.com) 
 
+## 🚀 My Projects
+<!-- [![Repo Image](https://github.com/Camiloesp/PythonDataScience_UnsupervisedML/blob/main/Data/3d_graph_clusters.png)](https://github.com/Camiloesp/PythonDataScience_UnsupervisedML) -->
+
+<h2 align="center">📊 Data Science</h2>
+
+<div align="center">
+<table border="0" style="border-collapse: collapse;">
+  <tr>
+    <th style="border: none;">Exploratory Data Analysis</th>
+    <th style="border: none;">Work In Progress (Supervised ML)</th>
+    <th style="border: none;">Unsupervised Machine Learning</th>
+  </tr>
+  <tr>
+    <td style="border: none; text-align: center;">
+      <a href="https://github.com/Camiloesp/Python-Data-Science-Data-Prep-EDA-with-Python">
+        <img src="https://github.com/Camiloesp/Python-Data-Science-Data-Prep-EDA-with-Python/blob/master/Data/Screenshot%202025-10-04%20122753.png" width="300"/>
+      </a>
+    </td>
+    <td style="border: none; text-align: center;">
+      <a href="">
+        <img src="https://c.pxhere.com/images/95/69/e3a656b9fe407492d69728d865e9-1639627.jpg!d" width="300"/>
+      </a>
+    </td>
+    <td style="border: none; text-align: center;">
+      <a href="https://github.com/Camiloesp/PythonDataScience_UnsupervisedML">
+        <img src="https://raw.githubusercontent.com/Camiloesp/PythonDataScience_UnsupervisedML/main/Data/3d_graph_clusters.png" width="300"/>
+      </a>
+    </td>
+  </tr>
+</table>
+</div>
+
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Camiloesp&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Camiloesp&theme=dark&hide_border=false)<br/>
@@ -30,3 +62,8 @@ Something I always wanted to do is buy and modify a van for camping so I can tra
 [![](https://visitcount.itsvg.in/api?id=Camiloesp&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
+
