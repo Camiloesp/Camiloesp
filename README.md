@@ -12,10 +12,10 @@ Something I always wanted to do is buy and modify a van for camping so I can tra
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/camilo-espinosa1996) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:camesp96@gmail.com) 
 
-## 🚀 My Projects
+<!--## 🚀 My Projects -->
 <!-- [![Repo Image](https://github.com/Camiloesp/PythonDataScience_UnsupervisedML/blob/main/Data/3d_graph_clusters.png)](https://github.com/Camiloesp/PythonDataScience_UnsupervisedML) -->
 
-<h2 align="center">📊 Data Science</h2>
+## 📊 Data Science Projects
 
 <div align="center">
 <table border="0" style="border-collapse: collapse;">
