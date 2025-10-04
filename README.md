@@ -20,21 +20,25 @@ Something I always wanted to do is buy and modify a van for camping so I can tra
 <div align="center">
 <table border="0" style="border-collapse: collapse;">
   <tr>
-    <th style="border: none;">Exploratory Data Analysis</th>
+    <!-- Project Titles -->
+    <th style="border: none;">Exploratory Data Analysis</th> 
     <th style="border: none;">Work In Progress (Supervised ML)</th>
     <th style="border: none;">Unsupervised Machine Learning</th>
   </tr>
   <tr>
+    <!-- Project 1 -->
     <td style="border: none; text-align: center;">
       <a href="https://github.com/Camiloesp/Python-Data-Science-Data-Prep-EDA-with-Python">
         <img src="https://github.com/Camiloesp/Python-Data-Science-Data-Prep-EDA-with-Python/blob/master/Data/Screenshot%202025-10-04%20122753.png" width="300"/>
       </a>
     </td>
+    <!-- Project 2 -->
     <td style="border: none; text-align: center;">
       <a href="">
         <img src="https://c.pxhere.com/images/95/69/e3a656b9fe407492d69728d865e9-1639627.jpg!d" width="300"/>
       </a>
     </td>
+    <!-- Project 3 -->
     <td style="border: none; text-align: center;">
       <a href="https://github.com/Camiloesp/PythonDataScience_UnsupervisedML">
         <img src="https://raw.githubusercontent.com/Camiloesp/PythonDataScience_UnsupervisedML/main/Data/3d_graph_clusters.png" width="300"/>
