@@ -1,4 +1,7 @@
-# 👋 Hello, I'm Camilo!
+<div align="center">
+  <h1>👋 Hello, I'm Camilo!</h1>
+</div>
+
 I am a Software Engineer with 4 years of professional experience working in Unreal Engine, C++, and Python.
 My current focus is on **Data Science, Python, and AI/ML**, where I work with data analysis, visualization, and machine learning techniques to build intelligent solutions.
 
@@ -6,17 +9,25 @@ My current focus is on **Data Science, Python, and AI/ML**, where I work with da
 In my free time, I take classes to deepen my knowledge in AI and Data Science, go on walks with my dog, recently started going to the gym, and enjoy learning new DIY projects.
 Something I always wanted to do is buy and modify a van for camping so I can travel more around the country. 🚐
 
-## 💻 Tech Stack:
+<div align="center">
+  <h2>💻 Tech Stack</h2>
+</div>
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-## 🌐 Socials:
+<div align="center">
+  <h2>🌐 Socials</h2>
+</div>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/camilo-espinosa1996) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:camesp96@gmail.com) 
 
 <!--## 🚀 My Projects -->
 <!-- [![Repo Image](https://github.com/Camiloesp/PythonDataScience_UnsupervisedML/blob/main/Data/3d_graph_clusters.png)](https://github.com/Camiloesp/PythonDataScience_UnsupervisedML) -->
 
 <!-- =================================================================================================================================================================================================================================== -->
-## 📊 Data Science Projects
+<div align="center">
+  <h2>📊 Data Science Projects</h2>
+</div>
 
 <div align="center">
 <table border="0" style="border-collapse: collapse;">
@@ -50,7 +61,9 @@ Something I always wanted to do is buy and modify a van for camping so I can tra
 </div>
 
 <!-- =================================================================================================================================================================================================================================== -->
-## 🤖 Robotics Projects 
+<div align="center">
+  <h2>🤖 Robotics Projects</h2>
+</div>
 
 <div align="center">
 <table border="0" style="border-collapse: collapse;">
@@ -71,22 +84,14 @@ Something I always wanted to do is buy and modify a van for camping so I can tra
 
 <!-- =================================================================================================================================================================================================================================== -->
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Camiloesp&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Camiloesp&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Camiloesp&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<div align="center">
+  <h2>✍️ Random Dev Quote</h2>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Camiloesp&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
 
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Camiloesp&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Camiloesp&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=Camiloesp&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
