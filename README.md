@@ -19,7 +19,12 @@ Something I always wanted to do is buy and modify a van for camping so I can tra
   <h2>🌐 Socials</h2>
 </div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/camilo-espinosa1996) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:camesp96@gmail.com) 
+📧 **Email:** camesp96@gmail.com  
+🔗 **LinkedIn:** [Camilo](https://www.linkedin.com/in/camilo-espinosa1996)  
+🐙 **Github:** [Camiloesp](https://github.com/Camiloesp)
+
+
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/camilo-espinosa1996) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:camesp96@gmail.com) -->
 
 <!--## 🚀 My Projects -->
 <!-- [![Repo Image](https://github.com/Camiloesp/PythonDataScience_UnsupervisedML/blob/main/Data/3d_graph_clusters.png)](https://github.com/Camiloesp/PythonDataScience_UnsupervisedML) -->
