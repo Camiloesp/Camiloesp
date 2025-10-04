@@ -69,10 +69,7 @@ Something I always wanted to do is buy and modify a van for camping so I can tra
 </table>
 </div>
 
-
-
-
-https://github.com/Camiloesp/keyestudio-arduino-robot-car/blob/main/Assets/RobotCar.png
+<!-- =================================================================================================================================================================================================================================== -->
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Camiloesp&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
