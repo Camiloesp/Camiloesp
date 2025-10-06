@@ -79,7 +79,7 @@ Something I always wanted to do is buy and modify a van for camping so I can tra
   <tr>
     <!-- Project 1 -->
     <td style="border: none; text-align: center;">
-      <a href="https://github.com/Camiloesp/Python-Data-Science-Data-Prep-EDA-with-Python">
+      <a href="https://github.com/Camiloesp/keyestudio-arduino-robot-car/tree/main">
         <img src="https://github.com/Camiloesp/keyestudio-arduino-robot-car/blob/main/Assets/RobotCar.png" width="300"/>
       </a>
     </td>
