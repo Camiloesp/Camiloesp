@@ -39,7 +39,7 @@ Something I always wanted to do is buy and modify a van for camping so I can tra
   <tr>
     <!-- Project Titles -->
     <th style="border: none;">Exploratory Data Analysis</th> 
-    <th style="border: none;">Work In Progress (Supervised ML)</th>
+    <th style="border: none;">Supervised ML</th>
     <th style="border: none;">Unsupervised Machine Learning</th>
   </tr>
   <tr>
